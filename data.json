@@ -1,7 +1,7 @@
 {
     "Name": "KittenAIO",
     "File": "main.lua",
-    "Version": 0.3,
+    "Version": 0.1,
     "Type": "Champion AIO",
     "Champions": ["Lulu"]
 }
