@@ -1,7 +1,7 @@
 {
-    "Name": "KittenAIO",
+    "Name": "KittenAIO (Beta)",
     "File": "script.corrupt",
-    "Version": 0.6,
+    "Version": 0.8,
     "Type": "Champion AIO",
     "Champions": ["Lulu", "Yuumi"]
 }
